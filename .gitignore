@@ -1,0 +1,4 @@
+credentials.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+.terraform*
